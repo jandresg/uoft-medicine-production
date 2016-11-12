@@ -1,0 +1,24 @@
+font-face {
+	font-family: 'TradeGothic LT CondEighteen';
+	src: url('TradeGothicLT-BoldCondTwenty.eot');
+	src: url('TradeGothicLT-BoldCondTwenty.eot?#iefix') format('embedded-opentype'),
+		url('TradeGothicLT-BoldCondTwenty.woff') format('woff'),
+		url('TradeGothicLT-BoldCondTwenty.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+body {
+    background: #fff;
+    color: #002a5c;
+    font: 300 155.1% "TradeGothic LT CondEighteen", Helvetica;
+    position: absolute;;
+}
+#holder {
+    height: 480px;
+    left: 50%;
+    margin: -240px 0 0 -320px;
+    position: absolute;
+    top: 50%;
+    width: 640px;
+}
