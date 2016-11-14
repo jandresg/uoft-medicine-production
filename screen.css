@@ -1,4 +1,4 @@
-font-face {
+@font-face {
 	font-family: 'TradeGothic LT CondEighteen';
 	src: url('TradeGothicLT-BoldCondTwenty.eot');
 	src: url('TradeGothicLT-BoldCondTwenty.eot?#iefix') format('embedded-opentype'),
@@ -11,7 +11,7 @@ font-face {
 body {
     background: #fff;
     color: #002a5c;
-    font: 300 155.1% "TradeGothic LT CondEighteen", Helvetica;
+    font: 300 155.1% "TradeGothic LT CondEighteen";
     position: absolute;;
 }
 #holder {
